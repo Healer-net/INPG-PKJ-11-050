@@ -1,0 +1,53 @@
+.jumbotron {
+    padding-top: 15rem;
+       
+    
+    
+}
+
+#about {
+   background-color:#0099ff ;
+}
+
+#about img {
+    padding-top:-200px;
+    height:400px;
+    width:400px;
+}
+#portofolio {
+    background-color: #f8f9fa;
+}
+
+#portofolio img {
+    padding-top:-30rem;
+    width: 200px;
+    height: 300px;
+    
+}
+
+
+
+ section {
+     padding-top: 5rem;
+ }
+
+ #team {
+    background-color: #f8f9fa;
+}
+
+/* #contact {
+    background-color:#0099ff ;
+ } */
+
+ .isi {
+     margin-top: 10rem;
+ }
+
+ .cover {
+     padding-top:-10rem;
+ }
+
+ .gambarporto img {
+    width:80%
+ }
+ 
